@@ -1,0 +1,56 @@
+/* import  */
+
+
+.row>*{
+    padding:0 !important ;
+}
+.bg-main{
+    height: 520px;
+    background-image: url("../../images/Rectangle\ 70.png");
+    background-size: 30% 100%;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.image  img{
+    /* background-color: red; */
+    /* height: 100px; */
+    width: 100%;
+    padding: 0 !important;
+    margin: 0 !important;
+    border-radius: 25px 0 0 25px;
+
+}
+.left-image-border{
+    border-radius: 25px !important;
+    padding-bottom: 50px;
+}
+.banner-text{
+    align-items: center;
+    font-family: 'Rubik', sans-serif;
+    margin: auto !important;
+
+}
+.text-bold{
+    font-weight: 1000 !important;
+}
+.banner-aling{
+    display: flex;
+    justify-content: center;
+}
+.break-banner img{
+    padding: 10px;
+    border: 1px 20px solid black;
+}
+.banner2-align{
+    padding-left: 50px !important;
+}
+.bg-banner2{
+    background-image: url("../../images/Rectangle\ 72.png");
+    background-repeat: no-repeat;
+    background-position: 0px 100px;
+}
+.bg-banner5{
+    background-image: url("../../images/Rectangle\ 74.png"),url("../../images/Rectangle\ 75.png");
+    background-repeat: no-repeat;
+    background-position: 53% 100%, 85% 98%;
+}

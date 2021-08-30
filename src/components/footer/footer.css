@@ -1,0 +1,29 @@
+
+.break-footer{
+    background-color: #111111;    
+    color:white;
+    
+}
+.vector{
+    background-image: url('../../images/Vector-2.png');
+    background-repeat: no-repeat;
+    background-position: 50% 290%;
+
+}
+.footer-first-row{
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+li{
+    list-style-type:none;
+}
+.cube{
+    position: relative;
+}
+.cube img{
+    position: absolute;
+    position: absolute;
+    right: 0;
+    top: 62px;
+}

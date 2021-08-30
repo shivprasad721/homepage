@@ -1,0 +1,25 @@
+
+
+/* service section start */
+.bg-color{
+    background-color: #2E0807;
+    background-image: url("../../images/Vector-2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.service-head{
+    font-family: 'Rubik';
+    font-weight: 700 !important;
+    font-size: 30px;
+}
+.service-title{
+    font-size: 22px;
+    font-family: 'Rubik';
+    font-weight: bold !important;
+}
+.service-body{
+    font-size: 14px;
+    font-family: 'Rubik';
+    font-weight: 200 !important;
+}
+/*service setcion end */
